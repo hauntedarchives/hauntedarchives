@@ -139,3 +139,5 @@ $\color{#6cabdb}{\textsf{robloxiankin}}$<br>
 $\color{#6cabdb}{\textsf{dogkin}}$<br>
   
 </details>
+
+<a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31exd74b64jn35rgu7kem7afifhu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=6cabdb">
