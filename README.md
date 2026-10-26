@@ -1,5 +1,5 @@
 <div align="center"> 
-<img src="https://readme-typing-svg.demolab.com/?lines=i+pray+to+see+you+in+my+dreams+every+night.&font=Special+Elite&center=true&width=530&height=50&duration=2850&pause=1300">
+<img src="https://readme-typing-svg.demolab.com/?lines=i+pray+to+see+you+in+my+dreams+every+night.&font=Special+Elite&center=true&width=530&height=50&color=6CABDB&duration=2850&pause=1300">
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=please,+anything+to+suggest;you're+still+with+me,+travis.&font=Special+Elite&center=true&width=530&height=50&duration=2850&pause=1300">
+<img src="https://readme-typing-svg.demolab.com/?lines=please,+anything+to+suggest;you're+still+with+me,+travis.&font=Special+Elite&center=true&width=530&height=50&color=6CABDB&duration=2850&pause=1300">
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
     
 <summary>ext</summary>
 
-im owen, but you can also call me brandon, or any of my kins.<br>
+$\color{#6CABDB}{\textsf{im owen, but you can also call me brandon, or any of my kins.}}$<br>
 *(a kin list will be provided.)*<br>
 nicknames are also okay!<br>
 
