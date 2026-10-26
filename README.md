@@ -127,6 +127,7 @@ $\color{#185787}{\textsf{kins:}}$<br>
 $\color{#6cabdb}{\textsf{chance (forsaken)}}$<br>
 $\color{#6cabdb}{\textsf{azure (forsaken)}}$<br>
 $\color{#6cabdb}{\textsf{noli (forsaken/roblox)}}$<br>
+$\color{#6cabdb}{\textsf{contractee (forsaken)}}$<br>
 $\color{#6cabdb}{\textsf{andrew (bad things)}}$<br>
 $\color{#6cabdb}{\textsf{brandon (brandon works)}}$<br>
 $\color{#6cabdb}{\textsf{camryn (tmirb)}}$<br>
