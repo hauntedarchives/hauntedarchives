@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=hauntedarchives&style=plastic&color=86c5f5&label=stars">
+</div>
+
 <div align="center"> 
 <img src="https://readme-typing-svg.demolab.com/?lines=i+pray+to+see+you+in+my+dreams+every+night.&font=Special+Elite&center=true&width=530&height=50&color=ffffff&duration=2850&pause=1300">
 </div>
