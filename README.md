@@ -18,5 +18,26 @@
   
 <p align="center">
 <a href="https://rentry.co/sunpwner"><img src="https://file.garden/at4qk7JIqJI77oHX/Untitled356_20261028131827.png" width=170/> <a href="https://pronouns.cc/@hauntedarchives"><img src="https://file.garden/at4qk7JIqJI77oHX/Untitled356_20261028131913.png" width=170/>　　 <a href="https://rottingmoon.atabook.org/"><img src="https://file.garden/at4qk7JIqJI77oHX/Untitled356_20261028140254.png" width=170/>
+</a>
+</p>
+
+<img align="left" src="https://file.garden/at4qk7JIqJI77oHX/Untitled362_20261031081231.png" width=400>
+
+<p align="left">
+  <br>
+  <br>
+  <table style="width:100">
+    <tr>
+      <td>
+        <br>
+        <div align="center">
+          <img align="center" src="https://file.garden/at4qk7JIqJI77oHX/Untitled356_20261031081431.png" width=300>
+          
+[THE-TEMPIST](https://github.com/THE-TEMPIST) $\text{\color{#FFFFFF}brandon6875935 (brandon works)}$
+<br>
+</td>
+</tr>
+</table>
+
 
 <a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31exd74b64jn35rgu7kem7afifhu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=6cabdb">
