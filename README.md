@@ -33,7 +33,7 @@
         <div align="center">
           <img align="center" src="https://file.garden/at4qk7JIqJI77oHX/Untitled356_20261031081431.png" width=300>
           
-[THE-TEMPIST](https://github.com/THE-TEMPIST) $\text{\color{#FFFFFF}brandon6875935 (brandon works)}$
+[THE-TEMPIST](https://github.com/THE-TEMPIST) $\text{\color{#FFFFFF}'s}$ $\text{\color{#FFFFFF}brandon6875935 (brandon works)}$
 <br>
 </td>
 </tr>
