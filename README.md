@@ -35,6 +35,8 @@
           
 [THE-TEMPIST](https://github.com/THE-TEMPIST) $\text{\color{#FFFFFF}'s}$ $\text{\color{#FFFFFF}brandon6875935 (brandon works)}$
 <br>
+[Ponytowns-rewards](https://github.com/Ponytowns-rewards) $\text{\color{#FFFFFF}prettiest ponies (tysm trav!)}$
+<br>
 </td>
 </tr>
 </table>
