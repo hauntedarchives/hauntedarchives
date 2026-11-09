@@ -15,6 +15,8 @@
 </div>
 
 <div align="center">
+
+$\text{\color{#FFFFFF}PLEASE TELL ME ON MY ATABOOK IF IM FRIENDS WITH SOMEONE PROBLEMATIC OR FOLLOW SOMEONE PROBLEMATIC. i may not know!}$
   
 <p align="center">
 <a href="https://rentry.co/sunpwner"><img src="https://file.garden/at4qk7JIqJI77oHX/Untitled356_20261028131827.png" width=170/> <a href="https://pronouns.cc/@hauntedarchives"><img src="https://file.garden/at4qk7JIqJI77oHX/Untitled356_20261028131913.png" width=170/>　　 <a href="https://rottingmoon.atabook.org/"><img src="https://file.garden/at4qk7JIqJI77oHX/Untitled356_20261028140254.png" width=170/>
