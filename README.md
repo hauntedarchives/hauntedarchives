@@ -18,7 +18,7 @@
 
 <div align="center">
 
-$\text{\color{#FFFFFF}PLEASE⠀TELL⠀ME⠀ON⠀MY⠀ATABOOK⠀IF⠀IM⠀FRIENDS⠀WITH⠀SOMEONE⠀PROBLEMATIC⠀OR⠀FOLLOW⠀SOMEONE⠀PROBLEMATIC.}$</br>
+$\text{\color{#FFFFFF}PLEASE⠀TELL⠀ME⠀ON⠀MY⠀ATABOOK⠀IF⠀IM⠀FRIENDS⠀WITH⠀OR⠀FOLLOW⠀SOMEONE⠀PROBLEMATIC.}$</br>
 $\text{\color{#FFFFFF}i⠀may⠀not⠀know!}$
   
 <p align="center">
