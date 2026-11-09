@@ -14,9 +14,12 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=please,+anything+to+suggest;you're+still+with+me,+travis.&font=Special+Elite&center=true&width=530&height=50&color=ffffff&duration=2850&pause=1300">
 </div>
 
+⠀
+
 <div align="center">
 
-$\text{\color{#FFFFFF}PLEASE TELL ME ON MY ATABOOK IF IM FRIENDS WITH SOMEONE PROBLEMATIC OR FOLLOW SOMEONE PROBLEMATIC. i may not know!}$
+$\text{\color{#FFFFFF}PLEASE⠀TELL⠀ME⠀ON⠀MY⠀ATABOOK⠀IF⠀IM⠀FRIENDS⠀WITH⠀SOMEONE⠀PROBLEMATIC⠀OR⠀FOLLOW⠀SOMEONE⠀PROBLEMATIC.}$</br>
+$\text{\color{#FFFFFF}i⠀may⠀not⠀know!}$
   
 <p align="center">
 <a href="https://rentry.co/sunpwner"><img src="https://file.garden/at4qk7JIqJI77oHX/Untitled356_20261028131827.png" width=170/> <a href="https://pronouns.cc/@hauntedarchives"><img src="https://file.garden/at4qk7JIqJI77oHX/Untitled356_20261028131913.png" width=170/>　　 <a href="https://rottingmoon.atabook.org/"><img src="https://file.garden/at4qk7JIqJI77oHX/Untitled356_20261028140254.png" width=170/>
@@ -35,9 +38,9 @@ $\text{\color{#FFFFFF}PLEASE TELL ME ON MY ATABOOK IF IM FRIENDS WITH SOMEONE PR
         <div align="center">
           <img align="center" src="https://file.garden/at4qk7JIqJI77oHX/Untitled356_20261031081431.png" width=300>
           
-[THE-TEMPIST](https://github.com/THE-TEMPIST) $\text{\color{#FFFFFF}'s}$ $\text{\color{#FFFFFF}brandon6875935 (brandon works)}$
+[THE-TEMPIST](https://github.com/THE-TEMPIST) $\text{\color{#FFFFFF}'s⠀}$ $\text{\color{#FFFFFF}brandon6875935⠀(brandon⠀works)}$
 <br>
-[Ponytowns-rewards](https://github.com/Ponytowns-rewards) $\text{\color{#FFFFFF}prettiest ponies (tysm trav!)}$
+[Ponytowns-rewards](https://github.com/Ponytowns-rewards) $\text{\color{#FFFFFF}⠀prettiest ponies ⠀(tysm ⠀trav!)}$
 <br>
 </td>
 </tr>
