@@ -46,6 +46,3 @@ $\text{\color{#FFFFFF}also if you somehow came from someone elses readme, thats 
 </td>
 </tr>
 </table>
-
-
-<a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31exd74b64jn35rgu7kem7afifhu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=6cabdb">
