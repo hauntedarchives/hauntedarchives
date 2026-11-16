@@ -14,15 +14,15 @@
 <img align="center" src="https://file.garden/at4qk7JIqJI77oHX/Untitled376_20261116161556.png" width="400">
 
 <div align="center">
-$\text{\color{#FFFFBC}19⠀yo⠀⠀ʚɞ⠀⠀he⠀it⠀prns}$</br>
-$\text{\color{#F4771C}audhd⠀⠀ʚɞ⠀⠀sys⠀⠀ʚɞ⠀⠀fictkin}$</br>
-$\text{\color{#FFFFBC}always⠀iwcare}$</br>
+$\text{\color{#FFFFBC}19⠀yo⠀⠀ʚɞ⠀⠀he⠀it⠀prns}$ </br>
+$\text{\color{#F4771C}audhd⠀⠀ʚɞ⠀⠀sys⠀⠀ʚɞ⠀⠀fictkin}$ </br>
+$\text{\color{#FFFFBC}always⠀iwcare}$ </br>
 </br>
 <img src="https://64.media.tumblr.com/3cd47c5041d1adddab50ded1e4b112d2/a5b1356930a0adee-3d/s100x200/5d7b459de07729e501a88f0d104615d86230bbf1.gifv"></br>
 </br>
-$\text{\color{#FFFFBC}c + h⠀encouraged⠀⠀ʚɞ⠀⠀w2i⠀pref}$</br>
-$\text{\color{#F4771C}under⠀16⠀dnf}$</br>
-$\text{\color{#FFFFBC}please⠀tell⠀me⠀on⠀my⠀ata⠀if⠀i⠀follow⠀or⠀am⠀oomfs⠀with⠀someone⠀problematic}$</br>
+$\text{\color{#FFFFBC}c + h⠀encouraged⠀⠀ʚɞ⠀⠀w2i⠀pref}$ </br>
+$\text{\color{#F4771C}under⠀16⠀dnf}$ </br>
+$\text{\color{#FFFFBC}please⠀tell⠀me⠀on⠀my⠀ata⠀if⠀i⠀follow⠀or⠀am⠀oomfs⠀with⠀someone⠀problematic}$ </br>
 </div>
 
 <div align="center"> 
