@@ -5,7 +5,7 @@
 ⠀
 
 <div align="center"> 
-<img src="https://readme-typing-svg.demolab.com/?lines=ozo,+is+that+you?&font=Henny+Penny&center=true&width=530&height=50&color=ffffff&duration=2850&pause=1300">
+<img src="https://readme-typing-svg.demolab.com/?lines=ozo,+is+that+you?&font=Henny+Penny&center=true&width=530&height=50&color=ffff83&duration=2850&pause=1300">
 </div>
 
 <div align="center">
@@ -14,6 +14,7 @@
 <img align="center" src="https://file.garden/at4qk7JIqJI77oHX/Untitled376_20261116161556.png" width="400">
 
 <div align="center">
+<p align=center>
 $\text{\color{#FFFFBC}19⠀yo⠀⠀ʚɞ⠀⠀he⠀it⠀prns}$ </br>
 $\text{\color{#F4771C}audhd⠀⠀ʚɞ⠀⠀sys⠀⠀ʚɞ⠀⠀fictkin}$ </br>
 $\text{\color{#FFFFBC}always⠀iwcare}$ </br>
@@ -22,11 +23,11 @@ $\text{\color{#FFFFBC}always⠀iwcare}$ </br>
 </br>
 $\text{\color{#FFFFBC}c + h⠀encouraged⠀⠀ʚɞ⠀⠀w2i⠀pref}$ </br>
 $\text{\color{#F4771C}under⠀16⠀dnf}$ </br>
-$\text{\color{#FFFFBC}please⠀tell⠀me⠀on⠀my⠀ata⠀if⠀i⠀follow⠀or⠀am⠀oomfs⠀with⠀someone⠀problematic}$ </br>
+$\text{\color{#FFFFBC}check⠀rentry⠀for⠀dni⠀and⠀byf}$ </br>
 </div>
 
 <div align="center"> 
-<img src="https://readme-typing-svg.demolab.com/?lines=LOL,+it+must+be!&font=Henny+Penny&center=true&width=530&height=50&color=ffffff&duration=2850&pause=1300">
+<img src="https://readme-typing-svg.demolab.com/?lines=LOL,+it+must+be!&font=Henny+Penny&center=true&width=530&height=50&color=ffff83&duration=2850&pause=1300">
 </div>
 
 <div align=center>
