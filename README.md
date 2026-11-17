@@ -1,9 +1,3 @@
-<div align=center>
-<img src="https://64.media.tumblr.com/208cb89e4fc440d0a76ae975e6f02733/a5b1356930a0adee-61/s1280x1920/cc2a82f3b89ef40d0959f694b38b50e38f67961e.pnj">
-</div>
-
-⠀
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=hauntedarchives&style=plastic&color=34f922&label=sundowners">
 </div>
@@ -24,12 +18,14 @@
 $\text{\color{#FFFFBC}19⠀yo⠀⠀ʚɞ⠀⠀he⠀it⠀prns}$ </br>
 $\text{\color{#F4771C}audhd⠀⠀ʚɞ⠀⠀sys⠀⠀ʚɞ⠀⠀fictkin}$ </br>
 $\text{\color{#FFFFBC}always⠀iwcare}$ </br>
+$\text{\color{#F4771C}brandon,⠀travis⠀rapid,}$ $\text{\color{#FFFFBC}⠀and}$ $\text{\color{#F4771C}⠀andrew}$ $\text{\color{#FFFFBC}⠀irl}$ </br>
 </br>
 <img src="https://64.media.tumblr.com/3cd47c5041d1adddab50ded1e4b112d2/a5b1356930a0adee-3d/s100x200/5d7b459de07729e501a88f0d104615d86230bbf1.gifv"></br>
 </br>
-$\text{\color{#FFFFBC}c + h⠀encouraged⠀⠀ʚɞ⠀⠀w2i⠀pref}$ </br>
+$\text{\color{#FFFFBC}c + h⠀enc⠀⠀ʚɞ⠀⠀w2i⠀pref}$ </br>
 $\text{\color{#F4771C}under⠀16⠀dnf}$ </br>
 $\text{\color{#FFFFBC}check⠀rentry⠀for⠀dni⠀and⠀byf}$ </br>
+$\text{\color{#FFFFBC}doubles}$ $\text{\color{#F4771C}⠀oti}$ </br>
 </p>
 </div>
 
@@ -69,9 +65,3 @@ $\text{\color{#FFFFBC}check⠀rentry⠀for⠀dni⠀and⠀byf}$ </br>
 </td>
 </tr>
 </table>
-
-⠀
-
-<div align=center>
-<img src="https://64.media.tumblr.com/c379bd704709efb4d87b240492469870/a5b1356930a0adee-73/s1280x1920/9592b1cded8f01cef68c0f67fc14ce79c20fa6b6.gifv">
-</div>
