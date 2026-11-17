@@ -1,3 +1,10 @@
+<div align=center>
+<img src="https://64.media.tumblr.com/e965da1b04f54b241306b3f4765fba60/f914094ada23acb9-b8/s1280x1920/8f18f42481ee24f5f7356a48d38ac4c3579df9f9.pnj">
+<img src="https://64.media.tumblr.com/208cb89e4fc440d0a76ae975e6f02733/a5b1356930a0adee-61/s1280x1920/cc2a82f3b89ef40d0959f694b38b50e38f67961e.pnj">
+</div>
+
+⠀
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=hauntedarchives&style=plastic&color=34f922&label=sundowners">
 </div>
@@ -63,3 +70,10 @@ $\text{\color{#FFFFBC}check⠀rentry⠀for⠀dni⠀and⠀byf}$ </br>
 </td>
 </tr>
 </table>
+
+⠀
+
+<div align=center>
+<img src="https://64.media.tumblr.com/c379bd704709efb4d87b240492469870/a5b1356930a0adee-73/s1280x1920/9592b1cded8f01cef68c0f67fc14ce79c20fa6b6.gifv">
+<img src="https://64.media.tumblr.com/83f2da4b6c97c1bf0bedd896a1a35c65/f914094ada23acb9-d7/s1280x1920/d68a6431600f2d56708c230f35de172fdb9a987c.pnj">
+</div>
