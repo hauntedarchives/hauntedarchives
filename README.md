@@ -26,7 +26,7 @@ $\text{\color{#FFFFBC}c + h⠀enc⠀⠀ʚɞ⠀⠀w2i⠀pref}$ </br>
 $\text{\color{#F4771C}under⠀16⠀dnf}$ </br>
 $\text{\color{#FFFFBC}check⠀rentry⠀for⠀dni⠀and⠀byf}$ </br>
 $\text{\color{#F4771C}doubles⠀oti⠀!!}$ </br>
-$\text{\color{#FFFFBC}forsaken⠀fandom⠀iwc.⠀u⠀guys⠀have⠀been⠀weird⠀to⠀us⠀before}$
+$\text{\color{#FFFFBC}forsaken⠀fandom⠀iwcuf}$
 </p>
 </div>
 
