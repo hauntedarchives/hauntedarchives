@@ -24,7 +24,14 @@ $\text{\color{#FFFFBC}always⠀iwcare}$ </br>
 $\text{\color{#FFFFBC}c + h⠀encouraged⠀⠀ʚɞ⠀⠀w2i⠀pref}$ </br>
 $\text{\color{#F4771C}under⠀16⠀dnf}$ </br>
 $\text{\color{#FFFFBC}check⠀rentry⠀for⠀dni⠀and⠀byf}$ </br>
+</p>
 </div>
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31exd74b64jn35rgu7kem7afifhu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=false&bar_color=ffff83">
+  </a>
+</p>
 
 <div align="center"> 
 <img src="https://readme-typing-svg.demolab.com/?lines=LOL,+it+must+be!&font=Henny+Penny&center=true&width=530&height=50&color=ffff83&duration=2850&pause=1300">
