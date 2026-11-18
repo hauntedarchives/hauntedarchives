@@ -61,7 +61,8 @@ $\text{\color{#FFFFBC}check⠀rentry⠀for⠀dni⠀and⠀byf}$ </br>
 </br>
 [Ponytowns-rewards](https://github.com/Ponytowns-rewards) $\text{\color{#F4771C}⠀prettiest ponies}$ $\text{\color{#FFFFBC} ⠀(tysm ⠀trav!)}$
 </br>
-[pt-everypony](https://github.com/pt-everypony) $\text{\color{#FFFFBC}'s⠀}$ $\text{\color{#F4771C}brandon6875935}$ $\text{\color{#FFFFBC}⠀/}$ $\text{\color{#F4771C}⠀brandon6875935⠀hvykin}$ $\text{\color{#FFFFBC}⠀(brandon⠀works)}$
+[pt-everypony](https://github.com/pt-everypony) $\text{\color{#FFFFBC}'s⠀}$ $\text{\color{#F4771C}brandon6875935}$ $\text{\color{#FFFFBC}⠀/}$ $\text{\color{#F4771C}⠀brandon6875935}$</br>
+$\text{\color{#F4771C}⠀hvykin}$ $\text{\color{#FFFFBC}⠀(brandon⠀works)}$</br>
 </br>
 </td>
 </tr>
