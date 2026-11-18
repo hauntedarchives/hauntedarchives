@@ -50,7 +50,7 @@ $\text{\color{#FFFFBC}check⠀rentry⠀for⠀dni⠀and⠀byf}$ </br>
 <p align="left">
   <br>
   <br>
-  <table style="width:100">
+  <table style="width:50">
     <tr>
       <td>
         <br>
