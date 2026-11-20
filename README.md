@@ -14,7 +14,8 @@
 <img align="center" src="https://file.garden/at4qk7JIqJI77oHX/Untitled376_20261116161556.png" width="300">
 
 <div align="center">
-$\text{\color{#F4771C}or⠀the⠀names⠀of⠀my⠀other⠀kins}$<br>
+  <p align="center">
+<em>$\text{\color{#F4771C}or⠀the⠀names⠀of⠀my⠀other⠀kins}$<br>
 $\text{\color{#FFFFBC}19⠀yo⠀⠀ʚɞ⠀⠀he⠀it⠀prns}$ </br>
 $\text{\color{#F4771C}audhd⠀⠀ʚɞ⠀⠀sys⠀⠀ʚɞ⠀⠀fictkin}$ </br>
 $\text{\color{#FFFFBC}always⠀iwcare}$ </br>
