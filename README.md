@@ -15,7 +15,7 @@
 
 <div align="center">
 <p align=center>
-$\text{\color{#F4771C}or⠀the⠀names⠀of⠀my⠀other⠀kins}$<br>
+<i>$\text{\color{#F4771C}or⠀the⠀names⠀of⠀my⠀other⠀kins}$</i><br>
 $\text{\color{#FFFFBC}19⠀yo⠀⠀ʚɞ⠀⠀he⠀it⠀prns}$ </br>
 $\text{\color{#F4771C}audhd⠀⠀ʚɞ⠀⠀sys⠀⠀ʚɞ⠀⠀fictkin}$ </br>
 $\text{\color{#FFFFBC}always⠀iwcare}$ </br>
