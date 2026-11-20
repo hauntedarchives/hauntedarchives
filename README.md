@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-<img align="left" src="https://file.garden/at4qk7JIqJI77oHX/Untitled379_20261116161121.png" width="500">
+<img align="left" src="https://file.garden/at4qk7JIqJI77oHX/Untitled379_20261120084154.png" width="400">
 </div>
 <img align="center" src="https://file.garden/at4qk7JIqJI77oHX/Untitled376_20261116161556.png" width="300">
 
