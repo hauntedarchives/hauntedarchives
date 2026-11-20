@@ -23,7 +23,7 @@ $\text{\color{#F4771C}brandon,⠀travis⠀rapid,⠀++⠀andrew}$ $\text{\color{#
 </br>
 <img src="https://64.media.tumblr.com/3cd47c5041d1adddab50ded1e4b112d2/a5b1356930a0adee-3d/s100x200/5d7b459de07729e501a88f0d104615d86230bbf1.gifv"></br>
 </br>
-$\text{\color{#FFFFBC}c + h⠀enc⠀⠀ʚɞ⠀⠀w2i⠀pref⠀⠀ʚɞ⠀⠀usually⠀offtab⠀or⠀afk}$ </br>
+$\text{\color{#FFFFBC}c + h⠀enc⠀⠀ʚɞ⠀⠀w2i⠀pref,⠀usually⠀offtab⠀or⠀afk}$ </br>
 $\text{\color{#F4771C}under⠀16⠀dnf}$ </br>
 $\text{\color{#FFFFBC}check⠀rentry⠀for⠀dni⠀and⠀byi}$ </br>
 </p>
