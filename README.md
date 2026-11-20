@@ -4,8 +4,9 @@
 
 ⠀
 
+
 <div align="center"> 
-<img src="https://readme-typing-svg.demolab.com/?lines=ozo,+is+that+you?&font=Henny+Penny&center=true&width=530&height=50&color=ffff83&duration=2850&pause=1300">
+<img src="https://readme-typing-svg.demolab.com/?lines=ozo+is+that+you?+LOL+it+must+be!;hope+you+still+get+out+there+and+pwn,+so+much+fun&font=Henny+Penny&center=true&width=530&height=50&color=ffff83&duration=2850&pause=1300">
 </div>
 
 <div align="center">
@@ -15,7 +16,6 @@
 
 <div align="center">
   <p align="center">
-<em>$\text{\color{#F4771C}or⠀the⠀names⠀of⠀my⠀other⠀kins}$<br>
 $\text{\color{#FFFFBC}19⠀yo⠀⠀ʚɞ⠀⠀he⠀it⠀prns}$ </br>
 $\text{\color{#F4771C}audhd⠀⠀ʚɞ⠀⠀sys⠀⠀ʚɞ⠀⠀fictkin}$ </br>
 $\text{\color{#FFFFBC}always⠀iwcare}$ </br>
@@ -23,9 +23,9 @@ $\text{\color{#F4771C}brandon,⠀travis⠀rapid,⠀++⠀andrew}$ $\text{\color{#
 </br>
 <img src="https://64.media.tumblr.com/3cd47c5041d1adddab50ded1e4b112d2/a5b1356930a0adee-3d/s100x200/5d7b459de07729e501a88f0d104615d86230bbf1.gifv"></br>
 </br>
-$\text{\color{#FFFFBC}c + h⠀enc⠀⠀ʚɞ⠀⠀w2i⠀pref}$ </br>
+$\text{\color{#FFFFBC}c + h⠀enc⠀⠀ʚɞ⠀⠀w2i⠀pref⠀⠀ʚɞ⠀⠀usually⠀offtab⠀or⠀afk}$ </br>
 $\text{\color{#F4771C}under⠀16⠀dnf}$ </br>
-$\text{\color{#FFFFBC}check⠀rentry⠀for⠀dni⠀and⠀byf}$ </br>
+$\text{\color{#FFFFBC}check⠀rentry⠀for⠀dni⠀and⠀byi}$ </br>
 </p>
 </div>
 
@@ -35,9 +35,10 @@ $\text{\color{#FFFFBC}check⠀rentry⠀for⠀dni⠀and⠀byf}$ </br>
   </a>
 </p>
 
-<div align="center"> 
-<img src="https://readme-typing-svg.demolab.com/?lines=LOL,+it+must+be!&font=Henny+Penny&center=true&width=530&height=50&color=ffff83&duration=2850&pause=1300">
+<div align="center">
+<img src="https://file.garden/at4qk7JIqJI77oHX/Untitled350_20261120034716.png">
 </div>
+
 
 <div align=center>
 <p align="center">
@@ -58,12 +59,12 @@ $\text{\color{#FFFFBC}check⠀rentry⠀for⠀dni⠀and⠀byf}$ </br>
         <div align="center">
           <img src="https://64.media.tumblr.com/9dd66c4d2fe78ce54f03785c6ee5c899/a5b1356930a0adee-83/s75x75_c1/6c60ba9683dc1b8a773e99ba8218864ea425e145.gifv" width=40><img align="center" src="https://file.garden/at4qk7JIqJI77oHX/Untitled376_20261116170457.png" width=300> <img src="https://64.media.tumblr.com/9dd66c4d2fe78ce54f03785c6ee5c899/a5b1356930a0adee-83/s75x75_c1/6c60ba9683dc1b8a773e99ba8218864ea425e145.gifv" width=40>
           
-[THE-TEMPIST](https://github.com/THE-TEMPIST) $\text{\color{#FFFFBC}'s⠀}$ $\text{\color{#F4771C}brandon6875935}$ $\text{\color{#FFFFBC}⠀(brandon⠀works)}$
+[THE-TEMPIST](https://github.com/THE-TEMPIST) $\text{\color{#FFFFBC}'s⠀}$ ${\color{#F4771C}brandon6875935}$ $\text{\color{#FFFFBC}⠀(brandon⠀works)}$
 </br>
-[Ponytowns-rewards](https://github.com/Ponytowns-rewards) $\text{\color{#F4771C}⠀prettiest ponies}$ $\text{\color{#FFFFBC} ⠀(tysm ⠀trav!)}$
+[Ponytowns-rewards](https://github.com/Ponytowns-rewards) ${\color{#F4771C}⠀prettiest⠀ponies}$ $\text{\color{#FFFFBC} ⠀(tysm ⠀trav!)}$
 </br>
-[pt-everypony](https://github.com/pt-everypony) $\text{\color{#FFFFBC}'s⠀}$ $\text{\color{#F4771C}brandon6875935}$ $\text{\color{#FFFFBC}⠀/}$ $\text{\color{#F4771C}⠀brandon6875935}$</br>
-$\text{\color{#F4771C}⠀hvykin}$ $\text{\color{#FFFFBC}⠀(brandon⠀works)}$</br>
+[pt-everypony](https://github.com/pt-everypony) $\text{\color{#FFFFBC}'s⠀}$ ${\color{#F4771C}brandon6875935}$ $\text{\color{#FFFFBC}⠀/}$ ${\color{#F4771C}⠀brandon6875935}$</br>
+${\color{#F4771C}⠀hvykin}$ $\text{\color{#FFFFBC}⠀(brandon⠀works)}$</br>
 </br>
 </td>
 </tr>
